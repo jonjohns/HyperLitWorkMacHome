@@ -94,7 +94,23 @@ In terms of handling the data (images and wireframes--we were each working on se
 ##Works Cited
 ---------------------------------
 
+Beller, Jonathan. "Paying Attention." *Cabinet* 24 (2006/2007): n.pag. Web. 10 Apr. 2013.
 
+Hayles, N. Katherine. "Hyper and Deep Attention: The Generational Divide in Cognitive Modes." *Profession* 13 (2007): 187-199. Web. 10 Apr. 2013.
 
+Liu, Alan. “Where is Cultural Criticism in the Digital Humanities.” Ed. Matthew K. Gold.
+Debates in the Digital Humanities. Minneapolis: U of Minnesota P, 2012. 490-509. Print.
+
+Lukens, Jonathan, and Carl DiSalvo. “Speculative Design and Technological Fluency.”
+*International Journal of Learning and Media* 3.4 (2011): 23–40. Web. 2 Apr. 2013.
+
+Ramsay, Stephen, and Geoffrey Rockwell. “Developing Things: Notes Toward an Epistemology
+of Building in the Digital Humanities.” Ed. Matthew K. Gold. *Debates in the Digital
+Humanities.* Minneapolis: U of Minnesota P, 2012. 75-84. Print.
+
+Rockwell, Geoffrey. "Serious Play at Hand: Is Gaming Serious Research in the Humanities?"
+*Text Technology 12* (2003): 89-99. Web. 10 Dec. 2012.
+
+Winslow-Yost, Gabriel. "Simcity's Evil Twin." *The New Yorker*, 11 April. 2013. Web. 11 April 2013. 
 
 
