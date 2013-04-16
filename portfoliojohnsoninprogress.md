@@ -23,15 +23,6 @@ So how do you do that? How do you make--to borrow your term, Jentery--"user frie
 
 We, of course, decided upon the [Joyce Bot](https://github.com/uvicmakerlab/LongNowOfUlysses/blob/master/English507/Logs/JohnsonLogJoyceBotHistory.md) as a means of bringing out the critical framework of our project; a solution that I think we are both quite happy with. To be honest, how exactly the bot would go about clarifying these elements remains to be seen. I think what interests me about the JoyceBot and the possibilities for it, is how the Bot might be able to reveal the app--a digital reading tool for *Ulysses*, essentially--as something other than simply a container for content or reading tool. That is, as a digital artifact that "refuses transparency" (Ramsay and Rockwell). As Ramsay and Rockwell suggest, "most tools are celebrated for their transparecny," and such tools are "only noticed when they break down or refuse to work transparently" (Ramsay and Rockwell). I think this refusal of transparency--whether theoretical or the status of the app as "tool"--is essential when thinking about *HyperLit* and the JoyceBot. As Ramsay and Rockwell suggest "A digital artifact that transparently shows you something else might convey knowledge, but it doesn’t intervene as an explanation or argument" (Ramsay and Rockwell). So this was, of course, the problem we risked running in to when getting too caught up in the issues of simple usability in *HyperLit's* design phase--simply desingning something (a gameified reader) that shows something else (*Ulysses*). I realize that I have spent a sustained amount of time talking about these problems of useability, "user friendly theory", the JoyceBot, and--of course--the gap between the academic and public spheres. Ultimately, what I want to suggest is that this gap between academia and the "outside world" might potentially be bridged through "user friendly theory," and I want to suggest that user friendly theory might require, as Ramsay and Rockwell suggest, a sense of non-transparency in regards to computational tools and theoretical frameworks.  
 
-Regarding ourproject, I think it is also important to consider how gamification 
-
-
-
-To tie this all back to the exhibit ourself, I think that *HyperLit* does still 
-
-
-
-
 
 ##Expectations and Surprises Along the Way 
 -----------------
@@ -62,6 +53,11 @@ The majority of our data can be found within our wireframes. This really did com
 [Version 2.0](https://github.com/uvicmakerlab/LongNowOfUlysses/blob/master/English507/HyperLit/HyperLitWireframesBot.md)
 
 In terms of handling the data (images and wireframes--we were each working on seperate computers), Nina and I primarily utilized DropBox to share data. This was super effective, especially when it came to sharing animations during the process of editing the video. All of our images, animations, bmml files (editable Balsamiq format), concept photos/storyboards, and "project assets" were stored in the shared *HyperLit* folder in Dropbox. Of course, in order to upload the necessary documentation/data to GitHub we created a "HyperLit Documentation" Folder within the 507 "Log" repository. That folder can be found [here](https://github.com/uvicmakerlab/LongNowOfUlysses/tree/master/English507/Logs/HyperLitDocumentation). 
+
+
+##Works Cited
+---------------------------------
+
 
 
 
