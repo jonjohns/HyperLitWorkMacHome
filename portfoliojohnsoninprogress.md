@@ -109,6 +109,8 @@ In terms of handling the data (images and wireframes--we were each working on se
 
 Beller, Jonathan. "Paying Attention." *Cabinet* 24 (2006/2007): n.pag. Web. 10 Apr. 2013.
 
+Bogost, Ian. “Gamification is Bullshit.” *Bogost.com*. Bogost.com, 8 Aug. 2011. Web. 10 Dec. 2012.
+
 Hayles, N. Katherine. "Hyper and Deep Attention: The Generational Divide in Cognitive Modes." *Profession* 13 (2007): 187-199. Web. 10 Apr. 2013.
 
 Liu, Alan. “Where is Cultural Criticism in the Digital Humanities.” Ed. Matthew K. Gold.
